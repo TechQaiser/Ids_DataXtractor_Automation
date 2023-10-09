@@ -26,5 +26,8 @@ Follow these steps to install the project:
    type cmd in path search bar
    type main.exe in cmd 
 
-  
+## What This Tool Is For
+
+This tool automates Chrome to log in to Facebook accounts one by one and extract data to an Excel sheet. Get IDs from ids.txt and customize config.json.
+
 @TechQaiser :+1: "This versatile tool ensures updates are seamless, adapting to your needs and enhancing functionality whenever necessary! :shipit:
