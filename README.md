@@ -11,12 +11,20 @@ Tool Help To Extract Ids Data Like Access_token, Cookies, Business Token, Fb_dts
 
 Follow these steps to install the project:
 
-1. **Download/Clone the Repository:**
+1. **Clone the Repository:**
 
    ```bash
    git clone https://github.com/TechQaiser/Ids_DataXtractor_Automation
    cd Ids_DataXtractor_Automation
    main.exe
+   
+2. **Download & Install:**
+
+   ```bash
+   click on code and tap download zip
+   extract folder from downloads
+   type cmd in path search bar
+   type main.exe in cmd 
 
   
 @TechQaiser :+1: "This versatile tool ensures updates are seamless, adapting to your needs and enhancing functionality whenever necessary! :shipit:
