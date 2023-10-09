@@ -20,7 +20,7 @@ Follow these steps to install the project:
    
 2. **Download & Install:**
 
-   ```bash
+   ```
    click on code and tap download zip
    extract folder from downloads
    type cmd in path search bar
