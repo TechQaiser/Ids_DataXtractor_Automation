@@ -2,7 +2,7 @@
 Tool Help To Extract Ids Data Like Access_token, Cookies, Business Token, Fb_dtsg_jazoest_lsd . Chrome Automation Tool 
 
 > [!IMPORTANT]
-> Download Chrome Driver And Install Selenium Chrome Driver
+> Require Chrome Driver And Install Selenium Driver
 
 > [!NOTE]
 > Make sure To Download Selenium Chrome Driver | your Chrome browser and Selenium ChromeDriver must have same version. You can download the driver here: https://chromedriver.chromium.org/downloads
