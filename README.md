@@ -1,4 +1,4 @@
-# About Update 
+# Whats New (Update)
 1. Updated Login 2F Secuirty Key (version 1.5 : 10/15/2023)
 
 # Ids_DataXtractor_Automation
