@@ -1,3 +1,6 @@
+# About Update 
+1. Updated Login 2F Secuirty Key (version 1.5 : 10/15/2023)
+
 # Ids_DataXtractor_Automation
 Tool Help To Extract Ids Data Like Access_token, Cookies, Business Token, Fb_dtsg_jazoest_lsd . Chrome Automation Tool 
 
