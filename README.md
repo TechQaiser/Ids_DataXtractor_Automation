@@ -7,6 +7,8 @@
    > if code1 is used in login process then other remaining codes will save in file.
 3. Keep your account safe Option Added & Error Pass Exception Also Used To Skip Errors To Keep Tool Running .
 
+
+
 # Ids_DataXtractor_Automation
 Tool Help To Extract Ids Data Like Access_token, Cookies, Business Token, Fb_dtsg_jazoest_lsd . Chrome Automation Tool 
 
