@@ -1,7 +1,7 @@
 # Whats New (Update)
-     > (version 1.5 : 10/15/2023)
+## (version 1.5 : 10/15/2023)
 1. Updated Login 2F Secuirty Key.
-     > (version 1.8 : 10/17/2023)
+## (version 1.8 : 10/17/2023)
 2. Updated Multiple 2Factors Codes To Verify And Save Non-Use 2F Code In Excel File.
    > uid|password|code1,code2,code3,code4.
    > if code1 is used in login process then other remaining codes will save in file.
