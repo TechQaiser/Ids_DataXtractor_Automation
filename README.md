@@ -1,5 +1,9 @@
 # Whats New (Update)
-1. Updated Login 2F Secuirty Key (version 1.5 : 10/15/2023)
+1. Updated Login 2F Secuirty Key (version 1.5 : 10/15/2023).
+2. Updated Multiple 2Factors Codes To Verify And Save Non-Use 2F Code In Excel File.
+   >> uid|password|code1,code2,code3,code4.
+   >> if code1 is used in login process then other remaining codes will save in file.
+3. Keep your account safe Option Added & Error Pass Exception Also Used To Skip Errors To Keep Tool Running .
 
 # Ids_DataXtractor_Automation
 Tool Help To Extract Ids Data Like Access_token, Cookies, Business Token, Fb_dtsg_jazoest_lsd . Chrome Automation Tool 
