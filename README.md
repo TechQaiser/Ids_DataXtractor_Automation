@@ -6,7 +6,8 @@
    > uid|password|code1,code2,code3,code4.
    > if code1 is used in login process then other remaining codes will save in file.
 3. Keep your account safe Option Added & Error Pass Exception Also Used To Skip Errors To Keep Tool Running .
-
+## (version 2.0 : 10/21/2023)
+4. All Invalid Or Error Id Will Cut From Ids File To (something_wrong.txt & invalid_data.txt)
 
 
 # Ids_DataXtractor_Automation
